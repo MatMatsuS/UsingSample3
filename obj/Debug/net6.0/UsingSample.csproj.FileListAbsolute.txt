@@ -1,0 +1,15 @@
+C:\Users\smats\projects\UsingSample\bin\Debug\net6.0\UsingSample.exe
+C:\Users\smats\projects\UsingSample\bin\Debug\net6.0\UsingSample.deps.json
+C:\Users\smats\projects\UsingSample\bin\Debug\net6.0\UsingSample.runtimeconfig.json
+C:\Users\smats\projects\UsingSample\bin\Debug\net6.0\UsingSample.dll
+C:\Users\smats\projects\UsingSample\bin\Debug\net6.0\UsingSample.pdb
+C:\Users\smats\projects\UsingSample\obj\Debug\net6.0\UsingSample.csproj.AssemblyReference.cache
+C:\Users\smats\projects\UsingSample\obj\Debug\net6.0\UsingSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smats\projects\UsingSample\obj\Debug\net6.0\UsingSample.AssemblyInfoInputs.cache
+C:\Users\smats\projects\UsingSample\obj\Debug\net6.0\UsingSample.AssemblyInfo.cs
+C:\Users\smats\projects\UsingSample\obj\Debug\net6.0\UsingSample.csproj.CoreCompileInputs.cache
+C:\Users\smats\projects\UsingSample\obj\Debug\net6.0\UsingSample.dll
+C:\Users\smats\projects\UsingSample\obj\Debug\net6.0\refint\UsingSample.dll
+C:\Users\smats\projects\UsingSample\obj\Debug\net6.0\UsingSample.pdb
+C:\Users\smats\projects\UsingSample\obj\Debug\net6.0\UsingSample.genruntimeconfig.cache
+C:\Users\smats\projects\UsingSample\obj\Debug\net6.0\ref\UsingSample.dll
